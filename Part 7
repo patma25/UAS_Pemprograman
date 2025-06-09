@@ -1,1 +1,60 @@
-https://www.duniailkom.com/belajar-html-cara-membuat-paragraf-di-html-tag-p/
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Title dari Websiteku</title>
+</head>
+<body>
+  Ini adalah paragraf pertama
+  Ini adalah paragraf kedua
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Title dari Websiteku</title>
+</head>
+<body>
+  Ini adalah paragraf pertama        Ini adalah paragraf kedua
+</body>
+</html>
+
+
+10
+<!DOCTYPE html>
+<html>
+<head>
+  <title>title dari websiteku</title>
+</head>
+<body>
+  <p>ini adalah paragraf pertama</p>
+  <p>ini adalah paragraf kedua</p>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>title dari websiteku</title>
+</head>
+<body>
+  ini adalah paragraf pertama
+  <br />
+  ini adalah paragraf kedua
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>title dari websiteku</title>
+</head>
+<body>
+  <p>ini adalah kalimat <em>pertama</em>, 
+  sedangkan ini adalah kalimat <strong>kedua</strong></p>
+</body>
+</html>
+
